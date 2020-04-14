@@ -7,5 +7,5 @@ This is a React-based Google Books Search app. The user can search for books via
 User has the option to "View" a book, bringing them to the book on Google Books, or "Save" a book, saving it to the Mongo 
 database. or  "Delete" a book, removing it from the Mongo database.
 
-![[](images/GoogleBppk1.png)
+![](images/GoogleBppk1.png)
 
