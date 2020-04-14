@@ -14,4 +14,4 @@ The user can search for books via the Google Books API and render them here..The
 
 or  "Delete" a book, removing it from the Mongo database.
 
-![](images/GoogleBook3.png)
+![](images/GoogleBook4.png)
